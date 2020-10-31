@@ -32,5 +32,5 @@ jobs:
       with:
         app-name: 'hr-console-hushchyn'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_e6ab5c089c3840609ca8be60b384ed97 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_eaf1526b3d87468bb171c9c0ccf1fde0 }}
         package: ./published/
